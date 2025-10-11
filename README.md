@@ -1,9 +1,7 @@
-# Hi, I’m Yona  
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/bc89ee9b-e3ab-4160-8441-b5a67c1e8316" /># Hi, I’m Yona  
 
 I’m a **Full Stack Developer** passionate about building intuitive, user-centered applications.  
 My journey began with front-end design and grew into full-stack development — where I enjoy combining **beautiful UI** with **powerful backend logic** to bring ideas to life.  
-
-> ❤️ “Love your job, job your love”
 
 ---
 
@@ -44,23 +42,13 @@ A full-stack **React Native + Supabase** application promoting mental wellness t
 
 ## Fun Fact  
 
-I really enjoy volunteering — connecting with people and giving back to the community always inspires me to build more meaningful products.  
+I love volunteering for a purpose and connecting with genuine people 🫂
 
 ---
 
-## Let's Connect  
-
-[![Email](https://img.shields.io/badge/Email-maylinlattmoe%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maylinlattmoe@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-phoopwint15-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/phoopwint15)  
-
----
-
-## GitHub Stats  
+## Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maylin155&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maylin155&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maylin155&show_icons=true&theme=ambient_gradient" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maylin155&show_icons=true&theme=transparent" height="165" />
 </p>
