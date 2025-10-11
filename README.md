@@ -38,7 +38,9 @@ My journey began with front-end design and grew into full-stack development — 
 A full-stack **React Native + Supabase** application promoting mental wellness through mood tracking, journalin
 
 ## Github Stats
-
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maylin155&theme=aura_dark" height="165" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maylin155&show_icons=true&theme=ambient_gradient" height="165" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maylin155&theme=aura_dark" height="165" />
