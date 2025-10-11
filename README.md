@@ -1,4 +1,4 @@
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/bc89ee9b-e3ab-4160-8441-b5a67c1e8316" /># Hi, I’m Yona  
+## 👋 Hi, I am Yona 
 
 I’m a **Full Stack Developer** passionate about building intuitive, user-centered applications.  
 My journey began with front-end design and grew into full-stack development — where I enjoy combining **beautiful UI** with **powerful backend logic** to bring ideas to life.  
@@ -30,25 +30,20 @@ My journey began with front-end design and grew into full-stack development — 
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
+--- 
 
 ## Featured Project  
 
 **Zen — Mental Health & Self-Care App**  
-A full-stack **React Native + Supabase** application promoting mental wellness through mood tracking, journaling, and an AI-powered chatbot.  
-> Focused on accessibility, security, and creating an empathetic user experience.  
-
----
-
-## Fun Fact  
-
-I love volunteering for a purpose and connecting with genuine people 🫂
-
----
+A full-stack **React Native + Supabase** application promoting mental wellness through mood tracking, journalin
 
 ## Github Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maylin155&show_icons=true&theme=ambient_gradient" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maylin155&show_icons=true&theme=transparent" height="165" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maylin155&theme=aura_dark" height="165" />
 </p>
+
+## Fun Fact  
+
+I love volunteering for a purpose and connecting with genuine people 🫂
