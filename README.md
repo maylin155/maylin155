@@ -1,7 +1,7 @@
 ## 👋 Hi, I am Yona 
 
 I’m a **Full Stack Developer** passionate about building intuitive, user-centered applications.  
-My journey began with front-end design and grew into full-stack development — where I enjoy combining **beautiful UI** with **powerful backend logic** to bring ideas to life.  
+My journey began with front-end design and grew into full-stack development — where I enjoy combining two worlds to bring ideas to life.  
 
 ---
 
@@ -13,12 +13,15 @@ My journey began with front-end design and grew into full-stack development — 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Backend:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -32,20 +35,24 @@ My journey began with front-end design and grew into full-stack development — 
 
 --- 
 
-## Featured Project  
+## 🌟 Featured Project  
 
-**Zen — Mental Health & Self-Care App**  
-A full-stack **React Native + Supabase** application promoting mental wellness through mood tracking, journalin
+### [Zen](https://github.com/maylin155/Zen)  
+**A mental health care app** built with **React Native** and **Expo**, designed to support users with mental health management through mood tracking, AI-powered chat, and self-guided exercises.  
+
+More projects coming soon... 
 
 ## Github Stats
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maylin155&theme=aura_dark" height="165" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maylin155&theme=aura_dark"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maylin155&show_icons=true&theme=ambient_gradient" height="165" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maylin155&theme=aura_dark" height="165" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maylin155&theme=aura_dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maylin155&theme=aura_dark"/>
 </p>
+
 
 ## Fun Fact  
 
 I love volunteering for a purpose and connecting with genuine people 🫂
+
