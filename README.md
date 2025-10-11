@@ -40,7 +40,7 @@ My journey began with front-end design and grew into full-stack development — 
 ### [Zen](https://github.com/maylin155/Zen)  
 **A mental health care app** built with **React Native** and **Expo**, designed to support users with mental health management through mood tracking, AI-powered chat, and self-guided exercises.  
 
-More projects coming soon... 
+<sub>More projects coming soon... </sub>
 
 ## Github Stats
 <p align="center">
