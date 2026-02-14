@@ -58,5 +58,5 @@ More exciting projects coming soon... 🚀
 
 ## Fun Fact  
 
-I love volunteering for a purpose and connecting with genuine people 🫂
+I love learning new things every day!
 
