@@ -2,7 +2,11 @@
 
 I’m a **Full Stack Developer** passionate about building intuitive, user-centered applications.  
 My journey began with front-end design and grew into full-stack development — where I enjoy combining two worlds to bring ideas to life. 
-⭐ Portfolio: phoopwint.netlify.app
+
+🌷 A little more about me
+
+<a href="https://phoopwint.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/✨%20phoopwint.netlify.app-F7CD01?style=for-the-badge&labelColor=242424" alt="Portfolio"/> </a>
+
 ## Tech Stack  
 
 **Frontend**  
