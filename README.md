@@ -1,11 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7CD01&width=435&lines=Hellooo+%F0%9F%91%8B+I+am+Yona)](https://git.io/typing-svg)
 
 I’m a **Full Stack Developer** passionate about building intuitive, user-centered applications.  
-My journey began with front-end design and grew into full-stack development — where I enjoy combining two worlds to bring ideas to life.  
-
-See my portfolio at:(https://phoopwint.netlify.app/)
----
-
+My journey began with front-end design and grew into full-stack development — where I enjoy combining two worlds to bring ideas to life. 
+⭐ Portfolio: phoopwint.netlify.app
 ## Tech Stack  
 
 **Frontend**  
@@ -59,5 +56,4 @@ More exciting projects coming soon... 🚀
 
 ## Fun Fact  
 
-I love learning new things every day!
-
+A hot cup of tea 🍵 always makes my day better
